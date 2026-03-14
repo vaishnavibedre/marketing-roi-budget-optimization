@@ -11,6 +11,22 @@ Domain: Marketing Analytics
 
 ---
 
+## Business Problem
+
+Marketing teams often struggle to understand which channels truly drive incremental revenue versus those that simply capture existing demand.
+
+This project builds a marketing measurement framework combining attribution and regression modeling to support data-driven budget allocation decisions.
+
+---
+
+## Key Results
+
+• Identified inefficient campaigns with high CAC
+• Found Paid Social had highest incremental impact
+• Recommended optimized budget allocation improving expected ROAS
+
+---
+
 ## Project Overview
 
 This project builds an **end-to-end marketing analytics pipeline** to evaluate multi-channel marketing performance and recommend an optimized marketing budget allocation.
@@ -350,7 +366,7 @@ Budget Optimization
 
 **Vaishnavi Bedre**
 
-Marketing Analytics | Data Analytics | Business Analytics
+Finance Analyst | Data Analytics | Business Analytics | Marketing Analytics
 
 ---
 
