@@ -155,6 +155,9 @@ Channel level daily metrics:
 • Promotion flags  
 • Weekly trends  
 
+Note: Sample datasets are included for demonstration purposes.
+Full datasets were used during local analysis.
+
 ---
 
 ## Analytical Components
@@ -256,6 +259,8 @@ Expected impact:
 ---
 
 ## Dashboard
+
+Power BI dashboard file (.pbix) included for full interactive view.
 
 The Power BI dashboard presents insights across four views:
 
